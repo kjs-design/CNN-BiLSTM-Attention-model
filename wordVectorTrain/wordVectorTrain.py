@@ -17,7 +17,7 @@ def string_to_tripeptide(file):
     return data
 
 
-fileName = "seven_n3_word_noAll_sample.txt"
+fileName = "word_sample.txt"
 
 word_dataSet = string_to_tripeptide(fileName)
 
