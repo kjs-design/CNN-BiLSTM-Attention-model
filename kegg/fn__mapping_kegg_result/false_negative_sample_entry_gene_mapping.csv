@@ -1,0 +1,2 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"Human Diseases","Neurodegenerative disease","hsa05014","Amyotrophic lateral sclerosis","8/42","364/8644",0.000307184014419183,0.0248819051679539,0.0239280179652838,"DERL1/GPX8/NDUFA7/NDUFB4/NUP107/NUP50/SQSTM1/SRSF3",8
